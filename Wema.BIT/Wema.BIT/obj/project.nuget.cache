@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Cf4ONOb8Nous4G72l0UjVnqFwCDnfd+WoPaxexU29mOxyzDbn9UcJZwkNJ2KMkarhlB+J8zveL4lM+kjAUqgA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Support\\source\\repos\\Wema.BIT\\Wema.BIT\\Wema.BIT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Support\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

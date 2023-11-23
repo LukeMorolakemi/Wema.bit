@@ -1,0 +1,17 @@
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Wema.BIT.exe
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Wema.BIT.deps.json
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Wema.BIT.runtimeconfig.json
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Wema.BIT.dll
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Wema.BIT.pdb
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.csproj.AssemblyReference.cache
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.AssemblyInfoInputs.cache
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.AssemblyInfo.cs
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.csproj.CoreCompileInputs.cache
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.csproj.CopyComplete
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.dll
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\refint\Wema.BIT.dll
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.pdb
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\Wema.BIT.genruntimeconfig.cache
+C:\Users\Support\source\repos\Wema.BIT\Wema.BIT\obj\Debug\net6.0\ref\Wema.BIT.dll
