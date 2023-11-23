@@ -1,0 +1,2 @@
+# Wema.bit
+payment
